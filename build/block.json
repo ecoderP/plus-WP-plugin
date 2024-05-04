@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/WordPress/gutenberg/trunk/schemas/json/block.json",
+  "apiVersion": 3,
+  "name": "plus-wp/fancy-header",
+  "title": "Fancy Header",
+  "category": "text",
+  "icon": "star-filled",
+  "description": "adds a header with a hover effect...",
+  "keywords": [
+    "header",
+    "underline",
+    "hover"
+  ],
+  "version": "1.0",
+  "textdomain": "Plus-WP-plugin",
+  "editorScript": "file:./index.js"
+}
